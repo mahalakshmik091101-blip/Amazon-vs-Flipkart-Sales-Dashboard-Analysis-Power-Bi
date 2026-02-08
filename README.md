@@ -81,6 +81,7 @@ ________________________________________
 📈 Same Demand, Different Results
 
 Both platforms processed 8,000 orders, showing equal demand. However, Flipkart generated $1.33B in revenue, nearly 75% higher than Amazon’s $757M, highlighting superior monetization.
+
 ⭐ Customer Experience Drives Growth
 
 Flipkart achieved a higher average rating of 4.0, compared to Amazon’s 3.0, indicating stronger customer satisfaction and brand trust.
