@@ -1,4 +1,5 @@
 Amazon-vs-Flipkart-Sales-Dashboard-Analysis-Power-Bi
+
 This project uses Power BI, Power Query, and DAX to analyse and compare Amazon and Flipkart sales data through interactive dashboards.
 ________________________________________
 
@@ -34,7 +35,7 @@ ________________________________________
 
 🛍️  Flipkart Dashboard – Page Overview
 
-<img width="1105" height="635" alt=<img width="1105" height="635" alt="Flipkart" src="https://github.com/user-attachments/assets/83ac7c5a-189d-46e6-9479-627443b66893" />
+<img width="1105" height="635" alt="Flipkart" src="https://github.com/user-attachments/assets/6d402d60-e3c5-4b98-a107-d427ed14cf97" />
 
 
 
@@ -122,5 +123,4 @@ Prepared by
 
 
 
-"Flipkart" src="https://github.com/user-attachments/assets/3bbb0e0b-411c-42de-9796-8d106ee365d5" />
-<img width="1121" height="648" alt="Amazon" src="https://github.com/user-attachments/assets/e3ee3587-5b0c-4c0f-9722-28360f7622a2" />
+
