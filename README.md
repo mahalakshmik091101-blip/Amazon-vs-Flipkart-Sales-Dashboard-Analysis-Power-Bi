@@ -68,10 +68,11 @@ ________________________________________
 
 📸 Dashboard Preview
 
+<img width="1105" height="635" alt="Flipkart" src="https://github.com/user-attachments/assets/6f56932f-2a6c-4b4a-bb6d-77fe07554dbb" />
+
+
 <img width="1121" height="648" alt="Amazon" src="https://github.com/user-attachments/assets/cf5467bb-5a22-4ea3-8e8b-eebffce74dc2" />
 
-
-<img width="1105" height="635" alt="Flipkart" src="https://github.com/user-attachments/assets/6f56932f-2a6c-4b4a-bb6d-77fe07554dbb" />
 
 ________________________________________
 
