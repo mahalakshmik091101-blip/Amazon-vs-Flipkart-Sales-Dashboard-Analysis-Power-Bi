@@ -1,6 +1,7 @@
 Amazon-vs-Flipkart-Sales-Dashboard-Analysis-Power-Bi
 
 This project uses Power BI, Power Query, and DAX to analyse and compare Amazon and Flipkart sales data through interactive dashboards.
+
 ________________________________________
 
 📌 Project Overview
@@ -31,13 +32,10 @@ ________________________________________
 
 •	Power Query- Data cleaning and transformations
 
+________________________________________
 
 
 🛍️  Flipkart Dashboard – Page Overview
-
-<img width="1105" height="635" alt="Flipkart" src="https://github.com/user-attachments/assets/6d402d60-e3c5-4b98-a107-d427ed14cf97" />
-
-
 
 •	Total Orders: 8,000, Revenue: $1.33B, Avg Rating: 4.0, Avg Delivery: 5.48 days
 
@@ -55,9 +53,6 @@ ________________________________________
 
 📦Amazon Dashboard – Page Overview
 
-<img width="1121" height="648" alt="Amazon" src="https://github.com/user-attachments/assets/2b1b821a-d95b-4b11-84de-453d6cfc0568" />
-
-
 •	Total Orders: 8,000, Revenue: $757M, Avg Rating: 3.0, Avg Delivery: 5.51 days
 
 •	Monthly Revenue Range: $45M – $75M, Peak: August & December
@@ -69,6 +64,15 @@ ________________________________________
 •	Returning Customers: Higher Share, COD: Most Used
 
 •	Delivery Range: 5.41 – 5.63 days
+________________________________________
+
+📸 Dashboard Preview
+
+<img width="1121" height="648" alt="Amazon" src="https://github.com/user-attachments/assets/cf5467bb-5a22-4ea3-8e8b-eebffce74dc2" />
+
+
+<img width="1105" height="635" alt="Flipkart" src="https://github.com/user-attachments/assets/6f56932f-2a6c-4b4a-bb6d-77fe07554dbb" />
+
 ________________________________________
 
 📈 Key Business Insights 
@@ -116,11 +120,11 @@ Flipkart generated nearly $165M per major region, compared to Amazon’s ~$95M, 
 
 Flipkart leads in revenue, customer satisfaction, category dominance, and regional performance, while Amazon’s key strength lies in customer retention.
 
+________________________________________
+
 Prepared by
 👤 Mahalakshmi K
 🎯 Data Analyst | SQL | Power BI | DAX | Excel |Tableau
 📧 Email:mahalakshmik091101@gmail.com
-
-
 
 
